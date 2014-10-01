@@ -1,4 +1,4 @@
-gmulx
+GmulX
 =====
 
-A C++ port of the NetworkX Python graph library.
+A C++ port of the [NetworkX](https://networkx.github.io/) Python graph library.
